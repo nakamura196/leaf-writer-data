@@ -172,6 +172,6 @@
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
-		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>次の段落</p><p>あああ</p></body>
+		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>次の改行<lb>ここですね。</lb>です。</p><p>次の段落</p><p>あああ</p></body>
 	</text>
 </TEI>
