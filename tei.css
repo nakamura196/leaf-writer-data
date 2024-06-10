@@ -787,6 +787,7 @@ orig {
 p {
     display : block;
     margin-bottom : 0.5em;
+	background-color: lightblue;
 }
 pb {
 	display: block;
