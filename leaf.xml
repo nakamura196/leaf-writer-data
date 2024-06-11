@@ -205,7 +205,6 @@
 	"id": "https://raw.githubusercontent.com/nakamura196/leaf-writer-data/main/leaf.xml?keyword_annotation_20240610162959406",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-06-10T07:29:59.406Z",
-	"dcterms:modified": "2024-06-10T07:29:59.406Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nakamura196",
 		"@type": [
@@ -232,7 +231,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/nakamura196/leaf-writer-data/main/leaf.xml?keyword_annotation_20240610162959406#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[7]/seg"
+			"rdf:value": "TEI/text/body/p[8]/seg"
 		}
 	},
 	"oa:hasBody": {
@@ -284,7 +283,6 @@
 	"id": "https://raw.githubusercontent.com/nakamura196/leaf-writer-data/main/leaf.xml?organization_annotation_20240610163031629",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-06-10T07:30:31.629Z",
-	"dcterms:modified": "2024-06-10T07:30:31.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/nakamura196",
 		"@type": [
@@ -311,7 +309,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/nakamura196/leaf-writer-data/main/leaf.xml?organization_annotation_20240610163031629#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/p[8]/orgName"
+			"rdf:value": "TEI/text/body/p[9]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -330,6 +328,6 @@
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
-		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>あなたは？<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>明日の天気は<lb/>？</p><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の</p><p>段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
+		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>あなたは？<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>今日は</p><p>明日の天気は<lb/>？</p><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の</p><p>段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
 	</text>
 </TEI>
