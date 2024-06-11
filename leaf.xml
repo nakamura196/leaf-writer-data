@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://gdb.sakura.ne.jp/lw/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://gdb.sakura.ne.jp/lw/leaf-writer-data/tei_hi.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://gdb.sakura.ne.jp/lw/leaf-writer-data/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -313,7 +313,7 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "org:FormalOrganization",
+		"@type": "org:Organization",
 		"@id": "http://www.wikidata.org/entity/Q107095935",
 		"dc:format": "text/plain"
 	},
@@ -328,6 +328,6 @@
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
-		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p/><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
+		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>あなたは？<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p/><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
 	</text>
 </TEI>
