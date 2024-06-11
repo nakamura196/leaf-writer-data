@@ -328,6 +328,6 @@
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
-		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>あなたは？<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>今日は</p><p>明日の天気は<lb/>？</p><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の</p><p>段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
+		<body><p><lb/>夏の程は、の<lb/>あああ<lb/>あたしの名前は中村<lb/>あなたは？<lb/>太郎です。<lb/><persName key="中村, 覚" ref="http://viaf.org/viaf/31159697771003312807/">中村覚</persName>です。出身地は<placeName key="Tokyo" ref="http://www.wikidata.org/entity/Q1490">東京都</placeName>です。</p><p>あああ</p><p>今日はあああ</p><p>明日の天気は<lb/>？</p><p>次の改行は<lb/>こちらです。明日の天気は？<lb/>いいい</p><p>次の</p><p>段落</p><p>あなたの名前<seg type="keyword"><term>固有名詞</term></seg>は？</p><p>私の名前は<orgName key="中村覚" ref="http://www.wikidata.org/entity/Q107095935">中村覚</orgName>です。</p><p>あああ</p></body>
 	</text>
 </TEI>
