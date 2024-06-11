@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+   <text>
+      <body>
+         <p><s><lb corresp="#zl00000001" xml:id="l00000001" n="1"/><c>夏</c><c>の</c><c>程</c><c>は</c>、<c>の</c><c>と</c><c>か</c><c>に</c><placeName><c>京</c></placeName><c>に</c> <lb corresp="#zl00000002" xml:id="l00000002" n="2"/>わたらせをはしまし候はんする <lb corresp="#zl00000003" xml:id="l00000003" n="3"/>心ちして候へは、</s><s><persName>長老</persName>の <lb corresp="#zl00000004" xml:id="l00000004" n="4"/>御事ゆへ、とく御下候はん <lb corresp="#zl00000005" xml:id="l00000005" n="5"/>すらむこそ、返々あさま <lb corresp="#zl00000006" xml:id="l00000006" n="6"/>しくおほえさせをはし <lb corresp="#zl00000007" xml:id="l00000007" n="7"/>まし候へ、</s><s>いつ一定御 <lb corresp="#zl00000008" xml:id="l00000008" n="8"/>たち候はんするやらん、</s> <s><lb corresp="#zl00000009" xml:id="l00000009" n="9"/>御なこりをしくおほえ <lb corresp="#zl00000010" xml:id="l00000010" n="10"/>させをはしましてこそ候へ、</s>
+         </p>
+      </body>
+   </text>
+   <facsimile>
+      <surface>
+         <graphic url="2974_sample.jpg"/>
+         <zone xml:id="zl00000001" lry="1170" lrx="1572" uly="387" ulx="1485"/>
+         <zone xml:id="zc00010001" lry="497" lrx="1567" uly="395" ulx="1490"/>
+         <zone xml:id="zc00010002" lry="585" lrx="1558" uly="504" ulx="1489"/>
+         <zone xml:id="zc00010003" lry="674" lrx="1567" uly="594" ulx="1489"/>
+         <zone xml:id="zc00010004" lry="730" lrx="1557" uly="680" ulx="1507"/>
+         <zone xml:id="zc00010005" lry="808" lrx="1557" uly="742" ulx="1491"/>
+         <zone xml:id="zc00010006" lry="880" lrx="1547" uly="811" ulx="1514"/>
+         <zone xml:id="zc00010007" lry="930" lrx="1556" uly="880" ulx="1506"/>
+         <zone xml:id="zc00010008" lry="988" lrx="1565" uly="932" ulx="1493"/>
+         <zone xml:id="zc00010009" lry="1101" lrx="1562" uly="991" ulx="1492"/>
+         <zone xml:id="zc00010010" lry="1155" lrx="1563" uly="1104" ulx="1522"/>
+         <zone xml:id="zone_j1p_3mg_mbc" lry="1202" lrx="1476" uly="410" ulx="1336"/>
+         <zone xml:id="zone_ydx_jmg_mbc" lry="475" lrx="1463" uly="416" ulx="1384"/>
+         <zone xml:id="zone_jxb_mmg_mbc" lry="528" lrx="1454" uly="478" ulx="1404"/>
+         <zone xml:id="zone_pm2_nmg_mbc" lry="576" lrx="1446" uly="525" ulx="1405"/>
+         <zone xml:id="zone_ywc_5mg_mbc" lry="683" lrx="1455" uly="580" ulx="1411"/>
+         <zone xml:id="zone_ezx_5mg_mbc" lry="762" lrx="1472" uly="689" ulx="1406"/>
+         <zone xml:id="zone_znz_zmg_mbc" lry="818" lrx="1471" uly="766" ulx="1420"/>
+         <zone xml:id="zone_h3l_1ng_mbc" lry="941" lrx="1473" uly="819" ulx="1432"/>
+         <zone xml:id="zone_myv_1ng_mbc" lry="1005" lrx="1476" uly="943" ulx="1426"/>
+         <zone xml:id="zone_lsf_bng_mbc" lry="1160" lrx="1471" uly="1003" ulx="1435"/>
+      </surface>
+   </facsimile>
+</TEI>
